@@ -37,9 +37,11 @@ Currently:
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript)
 ![Lua](https://img.shields.io/badge/Lua-1a1a1a?style=for-the-badge&logo=lua)
-![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=cshrp&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JSON](https://img.shields.io/badge/JSON-1a1a1a?style=for-the-badge&logo=json)
 
 ---
 
@@ -47,20 +49,25 @@ Currently:
 ![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=for-the-badge&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwindcss)
 
 ---
 
 ### 🛠 Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=for-the-badge&logo=sqlite)
+![MariaDB](https://img.shields.io/badge/MariaDB-1a1a1a?style=for-the-badge&logo=mariadb)
 ![Discord.js](https://img.shields.io/badge/discord.js-1a1a1a?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
 ### 🧪 Tooling & Environment
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma)
+![Zen Browser](https://img.shields.io/badge/Zen_Browser-1a1a1a?style=for-the-badge&logo=firefoxbrowser)
 
 > Comfortable with Linux environments, CLI workflows, server setups, and daily development tooling.
 
