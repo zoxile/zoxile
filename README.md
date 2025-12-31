@@ -37,9 +37,9 @@ Currently:
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript)
 ![Lua](https://img.shields.io/badge/Lua-1a1a1a?style=for-the-badge&logo=lua)
-![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=cshrp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
