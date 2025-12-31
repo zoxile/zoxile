@@ -1,6 +1,4 @@
 ````md
-<div align="center">
-
 # 👋 Hey, I’m Zox
 
 ```ts
@@ -13,7 +11,6 @@ const Zox = {
   coFounder: "Orbit Studios",
   mindset: "Build first. Optimize later."
 };
-</div>
 ````
 ---
 
