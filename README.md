@@ -37,10 +37,10 @@ Currently:
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript)
 ![Lua](https://img.shields.io/badge/Lua-1a1a1a?style=for-the-badge&logo=lua)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
+![C#](https://img.shields.io/badge/C%23-1e1e1e.svg?style=for-the-badge&logo=csharp&logoColor=9b4f96)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css&logoColor=1572B6)
 ![JSON](https://img.shields.io/badge/JSON-1a1a1a?style=for-the-badge&logo=json)
 
 ---
@@ -64,7 +64,7 @@ Currently:
 
 ### 🧪 Tooling & Environment
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-1e1e1e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma)
 ![Zen Browser](https://img.shields.io/badge/Zen_Browser-1a1a1a?style=for-the-badge&logo=firefoxbrowser)
