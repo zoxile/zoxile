@@ -34,33 +34,33 @@ Currently:
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript)
+![Lua](https://img.shields.io/badge/Lua-1a1a1a?style=for-the-badge&logo=lua)
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=for-the-badge&logo=vite)
 
 ---
 
 ### 🛠 Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![Discord.js](https://img.shields.io/badge/discord.js-000?style=for-the-badge&logo=discord)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql)
+![Discord.js](https://img.shields.io/badge/discord.js-1a1a1a?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
 ### 🧪 Tooling & Environment
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git)
 
 > Comfortable with Linux environments, CLI workflows, server setups, and daily development tooling.
 
