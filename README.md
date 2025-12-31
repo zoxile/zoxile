@@ -13,10 +13,8 @@ const Zox = {
   coFounder: "Orbit Studios",
   mindset: "Build first. Optimize later."
 };
-````
-
 </div>
-
+````
 ---
 
 ## 🧠 WHOAMI
