@@ -69,6 +69,7 @@ Currently:
 ![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma)
 ![Zen Browser](https://img.shields.io/badge/Zen_Browser-1a1a1a?style=for-the-badge&logo=firefoxbrowser)
 [![PM2](https://img.shields.io/badge/PM2-1a1a1a?style=for-the-badge&logo=pm2)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a1a?style=for-the-badge&logo=Cloudflare)](#)
 
 > Comfortable with Linux environments, CLI workflows, server setups, and daily development tooling.
 
