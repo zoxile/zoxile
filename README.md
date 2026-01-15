@@ -25,7 +25,7 @@ I’m a **Co-Founder of Orbit Studios**, where quality is non-negotiable. I acti
 Customer satisfaction is a top priority for me. I value clear communication, reliability, and long-term trust, and I approach every project with the goal of delivering something I would confidently use or ship myself.
 
 Currently:
-- 🚀 **Co-Founder @ Orbit Studios**
+- 🚀 **Co-Founder @ [Orbit Studios](https://github.com/orbitstudiossoftware)**
 - ⚙️ Building web apps, FiveM resources, APIs, Discord bots, personal projects, and more
 - 🧩 Strong focus on architecture, UX, DX, and performance
 
