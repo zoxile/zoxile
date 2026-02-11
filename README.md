@@ -26,6 +26,7 @@ Customer satisfaction is a top priority for me. I value clear communication, rel
 
 Currently:
 - 🚀 **Co-Founder @ [Orbit Studios](https://github.com/orbitstudiossoftware)**
+- 🖥️ Fullstack Developer @ **[ESX](https://github.com/esx-framework)** improving and building resources.
 - ⚙️ Building web apps, FiveM resources, APIs, Discord bots, personal projects, and more
 - 🆕 Currently dipping my toe in game development, specifically with the game engine Godot.
 - 🧩 Strong focus on architecture, UX, DX, and performance
