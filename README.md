@@ -9,6 +9,7 @@ const Zox = {
   role: "Full-Stack Developer",
   coFounder: "Orbit Studios",
   mindset: "Build first. Optimize later.",
+  hasDriversLicense: false
 };
 ```
 
