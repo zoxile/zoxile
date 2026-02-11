@@ -4,7 +4,7 @@
 const Zox = {
   name: undefined,
   age: 19,
-  experience: "6+ years",
+  experience: "5+ years",
   touchedGrass: false,
   role: "Full-Stack Developer",
   coFounder: "Orbit Studios",
