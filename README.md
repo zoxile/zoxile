@@ -72,8 +72,9 @@ Currently:
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma)
 ![Zen Browser](https://img.shields.io/badge/Zen_Browser-1a1a1a?style=for-the-badge&logo=firefoxbrowser)
-[![PM2](https://img.shields.io/badge/PM2-1a1a1a?style=for-the-badge&logo=pm2)](#)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a1a?style=for-the-badge&logo=Cloudflare)](#)
+![PM2](https://img.shields.io/badge/PM2-1a1a1a?style=for-the-badge&logo=pm2)]
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a1a?style=for-the-badge&logo=Cloudflare)
+![Godot](https://img.shields.io/badge/GODOT-1a1a1a?style=for-the-badge&logo=godot-engine)
 
 > Comfortable with Linux environments, CLI workflows, server setups, and daily development tooling.
 
