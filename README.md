@@ -6,10 +6,11 @@ const Zox = {
   age: 19,
   experience: "5+ years",
   touchedGrass: false,
+  hasDriversLicense: false,
   role: "Full-Stack Developer",
   coFounder: "Orbit Studios",
-  mindset: "Build first. Optimize later.",
-  hasDriversLicense: false
+  contributingTo: "ESX",
+  mindset: "Build first. Optimize later."
 };
 ```
 
