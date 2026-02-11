@@ -16,7 +16,7 @@ const Zox = {
 
 ## 🧠 WHOAMI
 
-I’m **Zox**, a developer with **6+ years of hands-on web development experience**, focused on building **clean, scalable, and performant systems**.
+I’m **Zox**, a developer with **5+ years of hands-on web development experience**, focused on building **clean, scalable, and performant systems**.
 
 I enjoy working closely with both **frontend and backend**, designing systems that are not only functional, but also maintainable, predictable, and future-proof.
 
