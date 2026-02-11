@@ -47,6 +47,8 @@ Currently:
 ---
 
 ### ⚛️ Frontend
+![Svelte](https://img.shields.io/badge/Svelte-1a1a1a?style=for-the-badge&logo=svelte)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-1a1a1a?style=for-the-badge&logo=svelte)
 ![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=for-the-badge&logo=vite)
