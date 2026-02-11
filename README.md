@@ -88,7 +88,6 @@ Currently:
 - 📦 Modular systems over monoliths
 - 🚫 No unnecessary frameworks
 - 🏠 Prefer in-house solutions when possible
-- 🤝 Long-term maintainability and customer satisfaction over quick wins
 - ⏲️ Take your time with a project, don't ever rush it.
 
 ---
