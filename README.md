@@ -70,7 +70,7 @@ Currently:
 
 ### 🧪 Tooling & Environment
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-1e1e1e.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-1a1a1a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma)
 ![Zen Browser](https://img.shields.io/badge/Zen_Browser-1a1a1a?style=for-the-badge&logo=firefoxbrowser)
