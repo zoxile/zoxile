@@ -31,6 +31,7 @@ Currently:
 - 🖥️ Fullstack Developer @ **[ESX](https://github.com/esx-framework)** improving and building resources.
 - ⚙️ Building web apps, FiveM resources, APIs, Discord bots, personal projects, and more
 - 🆕 Currently learning [Docker](https://github.com/docker) & dipping my toe in game development, specifically with the game engine [Godot](https://github.com/godotengine).
+- 💡 I do want to learn networking, C++, Go and Rust.
 - 🧩 Strong focus on architecture, UX, DX, and performance
 
 ---
