@@ -9,7 +9,7 @@ const Zox = {
   hasDriversLicense: false,
   role: "Full-Stack Developer",
   coFounder: "Orbit Studios",
-  contributingTo: "ESX",
+  workingOn: "orbit-dynamichud_2.0",
   mindset: "Build first. Optimize later."
 };
 ```
