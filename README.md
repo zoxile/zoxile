@@ -26,7 +26,7 @@ I’m a **Co-Founder of Orbit Studios**, where quality is non-negotiable. I acti
 
 Customer satisfaction is a top priority for me. I value clear communication, reliability, and long-term trust, and I approach every project with the goal of delivering something I would confidently use or ship myself.
 
-Currently:
+// ABOUT ME:
 - 🚀 **Co-Founder @ [Orbit Studios](https://github.com/orbitstudiossoftware)**
 - 🖥️ Former Fullstack Developer @ **[ESX](https://github.com/esx-framework)** contributed to resource development and improvements.
 - ⚙️ Building web apps, FiveM resources, APIs, Discord bots, personal projects, and more
@@ -90,8 +90,7 @@ Currently:
 - 🧠 Type safety where it adds real value
 - 🧪 Debuggable > clever
 - 📦 Modular systems over monoliths
-- 🚫 No unnecessary frameworks
-- 🏠 Prefer in-house solutions when possible
+- 🚫 No unnecessary frameworks or complications
 - ⏲️ Take your time with a project, don't ever rush it.
 
 ---
