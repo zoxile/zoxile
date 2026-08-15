@@ -3,8 +3,8 @@
 ```ts
 const Zox = {
   name: undefined,
-  age: 19,
-  experience: "5+ years",
+  age: 20,
+  experience: "6+ years",
   touchedGrass: false,
   hasDriversLicense: false,
   role: "Full-Stack Developer",
