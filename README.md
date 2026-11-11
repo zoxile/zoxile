@@ -22,7 +22,7 @@ I’m **Zox**, also known as **Zoxile**. I’m a developer with **6+ years of ha
 
 I enjoy working across both **frontend and backend**, building systems that are not only functional, but also **maintainable, predictable, easy to debug, and easy to extend**.
 
-I’m a **Co-Founder of [Orbit Studios](https://www.orbitstudios.net)**, where quality is non-negotiable. I actively maintain and refine my resources and repositories until they meet my own standards — not just technically, but from a **user and customer perspective** as well.
+I’m a **Co-Founder of [Orbit Studios](https://www.orbitstudios.net)**, where quality is non-negotiable. I actively maintain and refine my resources and repositories until they meet my own standards, not just technically, but from a **user and customer perspective** as well.
 
 Customer satisfaction is a major priority for me. I value **clear communication, reliability, long-term trust, and proper maintenance**, and I approach every project with the goal of delivering something I would confidently use or ship myself.
 
@@ -136,7 +136,7 @@ Most of my projects involve some combination of:
 * 🛠️ Developer tooling
 * 🎮 Game development
 
-I enjoy taking projects from an initial idea all the way to a finished product — from architecture and backend logic to UI, UX, deployment, maintenance, and long-term improvements.
+I enjoy taking projects from an initial idea all the way to a finished product, from architecture and backend logic to UI, UX, deployment, maintenance, and long-term improvements.
 
 ---
 
